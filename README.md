@@ -1,3 +1,3 @@
 # Bitcoin Website
 
-[bitcoin website] (https://bitcoin.org)
+[bitcoin website](https://bitcoin.org).
